@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Project tempurary file
+SAVED_IMAGE_DATA/
+WORK_SPACE/
+
+
+# Visual Studio 2022 file
+.vs/
+*.pyproj
+*.sln
